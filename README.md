@@ -33,9 +33,11 @@ Method 2:
 - Achieve the maximum high score.
 
 # Screenshots
- ![Alt text](Hunted Hunter Game/Screenshots/Screenshot 2024-05-27 123435.png?raw=true "Optional Title")
+![Screenshot 2024-05-27 123435](https://github.com/luqmanbeast/HuntedHunterAssignment/assets/88524453/8c684fac-ed10-4571-ae43-b40c72fd6c26)
+![Screenshot 2024-05-27 123513](https://github.com/luqmanbeast/HuntedHunterAssignment/assets/88524453/09ac4656-6f1a-431a-b3a4-82c23f65eca9)
+![Screenshot 2024-05-27 123629](https://github.com/luqmanbeast/HuntedHunterAssignment/assets/88524453/62a31fe2-dbd0-4e94-8a69-0d2b66bdbf0f)
+![Screenshot 2024-05-27 123732](https://github.com/luqmanbeast/HuntedHunterAssignment/assets/88524453/fbbc556a-8033-405a-8d5a-b58c48fb01ad)
 
- 
  
  
  
