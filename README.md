@@ -33,7 +33,8 @@ Method 2:
 - Achieve the maximum high score.
 
 # Screenshots
- 
+ ![Alt text](/relative/path/to/Screenshot 2024-05-27 123435?raw=true "Optional Title")
+
  
  
  
