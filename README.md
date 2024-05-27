@@ -33,7 +33,7 @@ Method 2:
 - Achieve the maximum high score.
 
 # Screenshots
- ![Alt text](/relative/path/to/Screenshot 2024-05-27 123435?raw=true "Optional Title")
+ ![Alt text](Hunted Hunter Game/Screenshots/Screenshot 2024-05-27 123435.png?raw=true "Optional Title")
 
  
  
