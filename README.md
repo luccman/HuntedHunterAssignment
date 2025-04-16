@@ -16,7 +16,7 @@ Hunted Hunter Game features:
 # User Manual 
 Method 1:
 Open your web browser and type:
-https://huntedhuntergamebyluqman.tiiny.site/
+https://luccman.github.io/HuntedHunterAssignment/
 
 Method 2:
 - Extract the "Hunted Hunter Game" zip folder.
