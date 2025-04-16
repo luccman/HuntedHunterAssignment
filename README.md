@@ -17,6 +17,7 @@ Hunted Hunter Game features:
 Method 1:
 Open your web browser and type:
 https://huntedhuntergamebyluqman.tiiny.site/
+
 Method 2:
 - Extract the "Hunted Hunter Game" zip folder.
 - Right Click on the folder and open it with Visual Studio Code.
